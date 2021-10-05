@@ -69,7 +69,7 @@ the user is responsible.
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@aju0011/Ajuserv2-Qr)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Shadow-sir-v1/Shadow-sir_v2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ranwaharesh/jamkudi)
      </div>
 <br>
 <br >
@@ -83,7 +83,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Shadow-sir-v1/Shadow-sir_v2
+$ git clone https://github.com/Ranwaharesh/jamkudi
 $ cd Shadow-sir_v2
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -93,7 +93,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Shadow-sir-v1/Shadow-sir_v2
+$ git clone https://github.com/Ranwaharesh/jamkudi
 $ cd Shadow-sir_v2
 $ chmod +x *
 $ npm i
